@@ -14,7 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    ;
+
 }
 
 .container {
@@ -23,7 +23,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    ;
+
 
 
 }
@@ -132,7 +132,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    gep: 15px;
+    gap: 15px;
 }
 
 @media screen and (max-width: 400px) {
