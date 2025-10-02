@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    blackgrond: white;
+    background: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,7 +29,7 @@ body {
 }
 
 .container-left {
-    blackground: rgba(51, 47, 47, 0.062);
+    background: rgba(51, 47, 47, 0.062);
     display: flex;
     justify-content: center;
     align-items: center;
