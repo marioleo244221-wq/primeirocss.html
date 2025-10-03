@@ -14,22 +14,22 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    ;
+
 }
 
 .container {
-    blackgrond: white;
+    background: white;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    ;
+
 
 
 }
 
 .container-left {
-    blackground: rgba(51, 47, 47, 0.062);
+    background: rgba(51, 47, 47, 0.062);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -132,7 +132,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    gep: 15px;
+    gap: 15px;
 }
 
 @media screen and (max-width: 400px) {
